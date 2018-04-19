@@ -9,3 +9,5 @@
 *.dep
 *.lst
 *.map
+/Objects
+/Listings
